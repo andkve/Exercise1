@@ -6,7 +6,9 @@ To complete this exercise you will have to use git. Create one or several commit
 When answering the questions, remember to use all the resources at your disposal. Asking the internet isn't a form of "cheating", it's a way of learning.
 
  ### What is concurrency? What is parallelism? What's the difference?
- > *Your answer here*
+ > Concurrency is when you have the ability to complete to tasks in the same overlapping timespace. This does not mean...
+ 
+ > 
  
  ### Why have machines become increasingly multicore in the past decade?
  > *Your answer here*
