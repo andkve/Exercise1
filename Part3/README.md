@@ -33,8 +33,12 @@ When answering the questions, remember to use all the resources at your disposal
  > Coroutines: These are the same as threads but has the ability to work together to multitask and are not managed by the OS.
  
  ### Which one of these do `pthread_create()` (C/POSIX), `threading.Thread()` (Python), `go` (Go) create?
- > *Your answer here*
+ > in that order:
  
+  > pthread_create() creates a new thread.
+  > threading.Thread() creates a new thread using pthread_create()
+  > go creates a green thread.
+  
  ### How does pythons Global Interpreter Lock (GIL) influence the way a python Thread behaves?
  > *Your answer here*
  
